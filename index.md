@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Syntax Tree Generator](/Syntax_tree_generator.md)
+This is my [Syntax Tree Generator](/Syntax_tree_generator.md)
 <img src="images/SyntaxTreeGenerator.png"/>
 
 ---
