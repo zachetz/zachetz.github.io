@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-This is my [Syntax Tree Generator](/Syntax_tree_generator.md)
+This is my [Syntax Tree Generator] that (/Syntax_tree_generator.md)
 <img src="images/SyntaxTreeGenerator.png"/>
 
 ---
