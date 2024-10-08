@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Syntax Tree Generator](/Syntax_tree_generator.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
