@@ -4,7 +4,9 @@
 
 ### Projects
 
-This is my [Syntax Tree Generator] that (/Syntax_tree_generator.md)
+This is my [Syntax Tree Generator](/Syntax_tree_generator.md)
+
+Python: NLTK, CustomTkinter
 <img src="images/SyntaxTreeGenerator.png"/>
 
 ---
