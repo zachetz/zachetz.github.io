@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Syntax Tree Generator](/Syntax_tree_generator.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/SyntaxTreeGenerator.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
