@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Syntax Tree Generator](/Syntax_tree_generator.ipynb)
+[Syntax Tree Generator](/Syntax_tree_generator.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
