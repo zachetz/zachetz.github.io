@@ -11,7 +11,7 @@ Python: NLTK, CustomTkinter
 
 ---
 [Sentiment Analysis of Covid Tweets](/Sentiment_analysis_covid.md)
-<img src="Sentiment_analysis_covid.png"/>
+<img src="images/Sentiment_analysis_covid.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
