@@ -11,7 +11,7 @@ Python: NLTK, CustomTkinter
 
 ---
 [Sentiment Analysis of Covid Tweets](/Sentiment_analysis_covid.md)
-<img src="Sentiment_analysis_covid"/>
+<img src="Sentiment_analysis_covid.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -22,7 +22,7 @@ Python: NLTK, CustomTkinter
 ### Code Links
 
 - [Syntax Tree Generator](/Syntax_tree_generator.md)
-- [Project 2 Title](http://example.com/)
+- [Sentiment Analysis of Covid Tweets](/Sentiment_analysis_covid.md)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
