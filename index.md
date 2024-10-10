@@ -10,8 +10,8 @@ Python: NLTK, CustomTkinter
 <img src="images/SyntaxTreeGenerator.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sentiment Analysis of Covid Tweets](/Sentiment_analysis_covid.md)
+<img src="Sentiment_analysis_covid"/>
 
 ---
 [Project 3 Title](http://example.com/)
