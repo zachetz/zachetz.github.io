@@ -10,4 +10,4 @@ Welcome to my portfolio, here are some quick links to my projects:
 
 [Syntax Tree Game/Generator](Syntax_tree_generator.md)
 
-[Sentiment Analysis of Tweets During Covid-19 Pandemic](Sentiment_analysis_covid.md)
+[Sentiment Analysis of Tweets During Covid-19 Pandemic](Sentiment_analysis_covid-2/Sentiment_analysis_covid.md)
