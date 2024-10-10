@@ -6,8 +6,8 @@ ___
 
 ### Hi, I'm Zach
 
-Welcome to My Portfolio
+Welcome to My Portfolio, here's some quick links to my project: 
 
-Here's an example of some code I wrote of [a Syntax Tree Generator](Syntax_tree_generator.md).
+[a Syntax Tree Generator](Syntax_tree_generator.md).
 
-Here is something I am testing [testing](Sentiment_analysis_covid.md)
+[Sentiment Analysis of Tweets During Covid-19 Pandemic](Sentiment_analysis_covid.md)
