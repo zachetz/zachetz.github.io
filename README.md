@@ -6,7 +6,7 @@ ___
 
 ### Hi, I'm Zach
 
-Welcome to My Portfolio, here are some quick links to my projects: 
+Welcome to my portfolio, here are some quick links to my projects: 
 
 [Syntax Tree Game/Generator](Syntax_tree_generator.md)
 
