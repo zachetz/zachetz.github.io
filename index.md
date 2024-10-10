@@ -7,7 +7,7 @@
 This is my [Syntax Tree Generator](/Syntax_tree_generator.md)
 
 Python: NLTK, CustomTkinter
-<img src="images/SyntaxTreeGenerator.png"/>
+<img src="images/Syntax_tree_gen-2.png"/>
 
 ---
 [Sentiment Analysis of Covid Tweets](/Sentiment_analysis_covid.md)
