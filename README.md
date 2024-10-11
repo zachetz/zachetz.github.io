@@ -11,4 +11,4 @@ Welcome to my portfolio, here are some quick links to my projects:
 ### About me
  I'm currently studying Computer Science & Linguistics with a minor in Finance at the University of Illinois Chicago. 
 
- <img src="images/Skydive.jpeg"/>
+ <img src="images/Skydive.JPEG"/>
