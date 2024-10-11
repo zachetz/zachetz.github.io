@@ -21,7 +21,7 @@ Here is a quick link to a [powerpoint showing some of the UI!]([images/342_Final
 
 [Syntax Tree Generator](/Syntax_tree_generator.md)
 
-Using a combination of CustomTkinter GUI and NLTK NLP tools, this application funcstions a syntax tree generator and geussing game. 
+Using a combination of CustomTkinter GUI and NLTK libraries (pos_tag, word_tokenize, and RegexpParser), this application functions as a syntax tree generator and guessing game. 
 
 <img src="images/Syntax_tree_gen-2.png"/>
 
