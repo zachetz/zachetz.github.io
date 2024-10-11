@@ -5,6 +5,9 @@
 ### Projects
 ---
 [Sentiment Analysis of Covid Tweets](Sentiment_analysis_covid-2/Sentiment_analysis_covid.md)
+
+This project investigates the performance of Naive Bayes and SVM models on tweets made through-out the COVID-19 Pandemic, in order to make an accurate multi-class model to determine sentiment. 
+
 <img src="images/Sentiment_analysis_covid.png"/>
 
 [JavaFX Battleship](https://drive.google.com/drive/folders/1vLBnGXGiOdrYrZfDDUy-KJZBk7zf_bwh?usp=sharing)
