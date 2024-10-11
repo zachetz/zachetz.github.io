@@ -8,7 +8,7 @@ Welcome to my portfolio, here are some quick links to my projects:
 
 [JavaFX Battleship](https://drive.google.com/drive/folders/1vLBnGXGiOdrYrZfDDUy-KJZBk7zf_bwh?usp=share_link)
 
-### About me
+### About Me
  I'm currently studying Computer Science & Linguistics with a minor in Finance at the University of Illinois Chicago. 
 
  Here's a picture of me skydiving!
