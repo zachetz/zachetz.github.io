@@ -22,7 +22,7 @@
 
 - [Sentiment Analysis of Covid Tweets](Sentiment_analysis_covid-2/Sentiment_analysis_covid.md)
 - [Syntax Tree Generator](/Syntax_tree_generator.md)
-- [Project 3 Title](http://example.com/)
+- [JavaFX Battleship](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
