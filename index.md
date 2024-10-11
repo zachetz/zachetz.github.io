@@ -14,7 +14,7 @@
 
 [JavaFX Battleship](https://drive.google.com/drive/folders/1vLBnGXGiOdrYrZfDDUy-KJZBk7zf_bwh?usp=sharing)
 
-Here is a link to a [powerpoint showing some of the UI!](https://docs.google.com/presentation/d/1_1wRdiF9V4dvdhygeJr7y3Ek1-YMpN5-LiivXzHD_OA/edit?usp=sharing)
+Here is a link to a [powerpoint showing some of the UI!](images/342_Final_Project_Report)
 
 As well as the [full project write-up](https://docs.google.com/document/d/1ipRiovXe1DBrFhyyAFDxhb-C2ZEAElBSMepo9iIJ8Xc/edit?usp=sharing)
 Blah blah blah description testing to see if image moves. 
