@@ -11,7 +11,7 @@
 
 <img src="images/Syntax_tree_gen-2.png"/>
 
----
+
 [JavaFX Battleship](http://example.com/)
 <img src="images/BattleshipProj.png"/>
 
