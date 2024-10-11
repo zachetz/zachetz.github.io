@@ -13,6 +13,7 @@
 
 
 [JavaFX Battleship](http://example.com/)
+
 <img src="images/BattleshipProj.png"/>
 
 ---
