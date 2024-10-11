@@ -14,10 +14,11 @@
 
 [JavaFX Battleship](https://drive.google.com/drive/folders/1vLBnGXGiOdrYrZfDDUy-KJZBk7zf_bwh?usp=sharing)
 
-Here is a link to a [powerpoint showing some of the UI!](images/342_Final_Project_Report)
+This project uses a client-server network to host a battleship game with a GUI powered by JavaFX. 
 
-As well as the [full project write-up](https://docs.google.com/document/d/1ipRiovXe1DBrFhyyAFDxhb-C2ZEAElBSMepo9iIJ8Xc/edit?usp=sharing)
-Blah blah blah description testing to see if image moves. 
+Here is a quick link to a [powerpoint showing some of the UI!](images/342_Final_Project_Report)
+
+
 
 <img src="images/BattleshipProj.png"/>
 
