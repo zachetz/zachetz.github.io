@@ -31,8 +31,6 @@ Using a combination of python's CustomTkinter GUI and NLTK libraries, this appli
 <img src="images/Syntax_tree_gen-2.png"/>
 
 
-
-
 ---
 
 ### Code Links
@@ -40,12 +38,5 @@ Using a combination of python's CustomTkinter GUI and NLTK libraries, this appli
 - [Sentiment Analysis of Covid Tweets](Sentiment_analysis_covid-2/Sentiment_analysis_covid.md)
 - [JavaFX Battleship](https://drive.google.com/drive/folders/1vLBnGXGiOdrYrZfDDUy-KJZBk7zf_bwh?usp=sharing)
 - [Syntax Tree Generator](/Syntax_tree_generator.md)
-  
-
-
----
-
-
-
 
 ---
