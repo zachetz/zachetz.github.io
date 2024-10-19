@@ -10,7 +10,7 @@ This project investigates the performance of Naive Bayes and SVM models on tweet
 
 <img src="images/Sentiment_analysis_covid.png"/>
 
-[JavaFX Battleship](https://drive.google.com/drive/folders/1vLBnGXGiOdrYrZfDDUy-KJZBk7zf_bwh?usp=sharing)
+### [JavaFX Battleship](https://drive.google.com/drive/folders/1vLBnGXGiOdrYrZfDDUy-KJZBk7zf_bwh?usp=sharing)
 
 This project uses a client-server network to host a battleship game with a GUI powered by JavaFX. 
 
@@ -19,7 +19,7 @@ Here is a quick link to a [powerpoint showing some of the UI!](https://docs.goog
 
 <img src="images/BattleshipProj.png"/>
 
-[Syntax Tree Generator](/Syntax_tree_generator.md)
+### [Syntax Tree Generator](/Syntax_tree_generator.md)
 
 Using a combination of python's CustomTkinter GUI and NLTK libraries (pos_tag, word_tokenize, and RegexpParser), this application functions as a syntax tree generator and guessing game. 
 
