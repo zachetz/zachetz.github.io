@@ -16,12 +16,13 @@ This project uses a client-server network to host a battleship game with a GUI p
 
 Here is a quick link to a [powerpoint showing some of the UI!](https://docs.google.com/presentation/d/1_1wRdiF9V4dvdhygeJr7y3Ek1-YMpN5-LiivXzHD_OA/edit#slide=id.p)
 
+I worked on this project with Bryce Sadelski and Alec Yaagoub. 
 
 <img src="images/BattleshipProj.png"/>
 
 ### [Syntax Tree Generator](/Syntax_tree_generator.md)
 
-Using a combination of python's CustomTkinter GUI and NLTK libraries (pos_tag, word_tokenize, and RegexpParser), this application functions as a syntax tree generator and guessing game. 
+Using a combination of python's CustomTkinter GUI and NLTK libraries, this application functions as a syntax tree generator and guessing game. 
 
 <img src="images/Syntax_tree_gen-2.png"/>
 
