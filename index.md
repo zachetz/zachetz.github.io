@@ -30,6 +30,8 @@ Using a combination of python's CustomTkinter GUI and NLTK libraries, this appli
 
 <img src="images/Syntax_tree_gen-2.png"/>
 
+### [CS 412 Project](/CS_412_Project.md)
+
 
 ---
 
