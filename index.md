@@ -43,5 +43,4 @@ Using various machine learning models (Linear Regression, Ridge Regression, Rand
 - [Sentiment Analysis of Covid Tweets](Sentiment_analysis_covid-2/Sentiment_analysis_covid.md)
 - [JavaFX Battleship](https://drive.google.com/drive/folders/1vLBnGXGiOdrYrZfDDUy-KJZBk7zf_bwh?usp=sharing)
 - [Syntax Tree Generator](/Syntax_tree_generator.md)
-- [Evaluating Accuracy of Current Weather Models with ML](https://github.com/JoseB29/412FinalProject)
 ---
