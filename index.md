@@ -1,4 +1,4 @@
-## Portfolio
+Li## Portfolio
 
 ---
 
@@ -29,6 +29,10 @@ I worked on this project with Bryce Sadelski and Alec Yaagoub.
 Using a combination of python's CustomTkinter GUI and NLTK libraries, this application functions as a syntax tree generator and guessing game. 
 
 <img src="images/Syntax_tree_gen-2.png"/>
+
+### [Evaluating Accuracy of Current Weather Models with ML](https://github.com/JoseB29/412FinalProject)
+
+Using various machine learning models (Linear Regression, Ridge Regression, Random Forest, SVM, and KNN), this project investigates the accuracy of current weather models and how accurately different machine learning models are at predecting weather. 
 
 
 
