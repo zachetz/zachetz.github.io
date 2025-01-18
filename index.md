@@ -34,7 +34,7 @@ Using a combination of python's CustomTkinter GUI and NLTK libraries, this appli
 
 Using various machine learning models (Linear Regression, Ridge Regression, Random Forest, SVM, and KNN), this project investigates the accuracy of current weather models and how accurately different machine learning models are at predecting weather. 
 
-
+<img src="images/unnamed-2.png"/>
 
 ---
 
